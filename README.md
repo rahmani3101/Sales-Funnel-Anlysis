@@ -88,7 +88,7 @@ Aggregates total revenue, orders, AOV, revenue per buyer, and revenue per visito
 
 ## 🛠️ Tech Stack
 
-- **Google BigQuery** — Cloud data warehouse & SQL engine
+- **Google BigQuery** — Cloud data warehouse & SQL engine on GCP
 - **Standard SQL** — CTEs, conditional aggregation, timestamp functions
 - **Google Cloud Platform (GCP)** — Project hosting
 - **Microsoft Word / docx** — Consulting report format
